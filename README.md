@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Yuta Hamasaki!! 
-I am from Japan 🇯🇵 living in Canada studying Web development.
+I am from Japan 🇯🇵 living in Canada studying Web development🇨🇦.
 
 - 🌎 Language: Japanese, English
 - Skill: HTML, CSS, Tailwindcss, Javascript, React, Next.js, Node.js, Express, Firebase, MongoDB, MySQL.
