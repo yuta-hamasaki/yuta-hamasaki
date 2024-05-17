@@ -14,7 +14,6 @@ Skill:
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 - 🌎 Language: English | 日本語 
-- Skill: HTML, CSS, Tailwindcss, Javascript, React, Next.js, Node.js, Express, Firebase, MongoDB, MySQL.
 - 🌱 I’m currently learning Web development in Cornerstone International Community College of Canada 🇨🇦
 - ⚡ Fun fact: I have done so many type of martial arts like MMA, Wrestling, Brazilian Jujitsu and Judo.
 - 📫 How to reach me: [My Portfolio](https://yuta-hamasaki.vercel.app)
