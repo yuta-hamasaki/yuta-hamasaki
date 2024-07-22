@@ -3,9 +3,9 @@
 I am from Japan 🇯🇵 living in Canada studying Web development🇨🇦.
 
 Skill:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,&theme=light)](https://github.com/yuta-hamasaki)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ejs,redux,tailwind,sass,bootstrap&theme=light)](https://github.com/yuta-hamasaki)
-[![My Skills](https://skillicons.dev/icons?i=git,firebase,supabase,prisma,postgres,mongodb&theme=light)](https://github.com/yuta-hamasaki)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,&theme=light)](https://github.com/yuta-hamasaki) <br/>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ejs,redux,tailwind,sass,bootstrap&theme=light)](https://github.com/yuta-hamasaki) <br/>
+[![My Skills](https://skillicons.dev/icons?i=git,firebase,supabase,prisma,postgres,mongodb&theme=light)](https://github.com/yuta-hamasaki) <br/>
 
 - 🌎 Language: English | 日本語 
 - 🌱 I’m currently learning Web development in Cornerstone International Community College of Canada 🇨🇦
