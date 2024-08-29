@@ -12,7 +12,7 @@ Skill:
 - 🌎 Language: English | 日本語 
 - 🌱 I’m currently learning Web development in Cornerstone International Community College of Canada 🇨🇦
 - ⚡ Fun fact: I have done so many type of martial arts like MMA, Wrestling, Brazilian Jujitsu and Judo.
-- 📫 How to reach me: [My Portfolio](https://yuta-hamasaki.vercel.app)
+- 📫 How to reach me: [My Portfolio](https://yuta-hamasaki.com)
 
 ### My GitHub Stats
 <div align="left"> 
