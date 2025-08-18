@@ -5,7 +5,7 @@ I am from Japan 🇯🇵 living in Canada studying Web development🇨🇦.
 Skill:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,&theme=light)](https://github.com/yuta-hamasaki) 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ejs,redux,tailwind,sass,bootstrap&theme=light)](https://github.com/yuta-hamasaki) 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,sass,bootstrap&theme=light)](https://github.com/yuta-hamasaki) 
 
 [![My Skills](https://skillicons.dev/icons?i=git,firebase,supabase,prisma,postgres,mongodb&theme=light)](https://github.com/yuta-hamasaki) 
 
