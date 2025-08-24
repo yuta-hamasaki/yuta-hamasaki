@@ -2,7 +2,8 @@
 ### I'm Yuta Hamasaki!! 
 I am from Japan 🇯🇵 living in Canada studying Web development🇨🇦.
 
-###Skill:
+Skills:
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,&theme=light)](https://github.com/yuta-hamasaki) 
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,astro,tailwind,sass,bootstrap&theme=light)](https://github.com/yuta-hamasaki) 
